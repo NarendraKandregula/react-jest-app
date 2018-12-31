@@ -1,0 +1,14 @@
+{
+  "baseUrl":"src",
+  "compilerOptions": {
+    "outDir": "build",
+    "target": "es5",
+    "sourceMap": true,
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "declaration": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"],
+  "compileOnSave": false
+}
